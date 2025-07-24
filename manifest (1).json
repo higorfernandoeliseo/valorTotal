@@ -13,11 +13,11 @@
       "sizes": "512x512"
     }
   ],
-  "start_url":"/valorTotal/",
-  "background_color":"#ffffff",
-  "display": "portrait",
-  "id": "valorTotal",
+  "start_url": "/valorTotal/",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
   "theme_color": "#ffffff",
+  "id": "valorTotal",
   "description": "Bem-vindo ao Aplicatvo valorTotal",
   "display_override": [
     "window-controls-overlay"
