@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url":"/",
+  "start_url":"/valorTotal/",
   "background_color":"#ffffff",
   "display": "portrait",
   "theme_color": "#ffffff"
