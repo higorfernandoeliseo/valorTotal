@@ -1,6 +1,7 @@
 {
   "name": "Shopping App",
   "short_name": "Shopping App",
+  "description": "Um aplicativo feito para Fazer contas.",
   "icons": [
     {
       "src": "./assets/icon-192.png",
