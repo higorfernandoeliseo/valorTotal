@@ -1,0 +1,25 @@
+{
+  "short_name": "Shopping App",
+  "name": "Shopping App",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url":"/valorTotal/",
+  "background_color":"#ffffff",
+  "display": "portrait",
+  "id": "valorTotal",
+  "theme_color": "#ffffff",
+  "description": "Bem-vindo ao Aplicatvo valorTotal",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
