@@ -1,36 +1,20 @@
 {
-  "name": "Shopping App",
   "short_name": "Shopping App",
-  "description": "Um aplicativo feito para Fazer contas.",
+  "name": "Shopping App",
   "icons": [
     {
-      "src": "./assets/icon-192.png",
-      "sizes": "192x192",
+      "src": "/assets/icon-192.png",
       "type": "image/png",
-      "purpose": "maskable"
+      "sizes": "192x192"
     },
     {
-      "src": "./assets/icon-384.png",
-      "sizes": "384x384",
+      "src": "/assets/icon-512.png",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./assets/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "sizes": "512x512"
     }
   ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
-  "start_url": "/valorTotal/",
-  "display": "standalone",
-  "orientation": "portrait",
-  "id": "https://higorfernandoeliseo.github.io/valorTotal",
-  "dir": "auto",
-  "lang": "pt",
-  "display_override": [
-    "window-controls-overlay"
-  ]
+  "start_url":"/",
+  "background_color":"#ffffff",
+  "display": "portrait",
+  "theme_color": "#ffffff"
 }
