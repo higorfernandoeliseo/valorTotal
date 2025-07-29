@@ -12,7 +12,7 @@ const populateItemsDiv = async () => {
     const allItems = await db.items.toArray()
 
 
-    itemsDiv.innerHTML = allItems.map(items => `
+    itemsDiv.innerHTML = allItems.map(item => `
         <div class="item ${item.isPurchased && 'purchased'}">
             <label>
                 <input 
